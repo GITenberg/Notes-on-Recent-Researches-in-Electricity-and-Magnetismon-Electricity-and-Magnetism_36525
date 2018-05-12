@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '38322'
     url: http://www.gutenberg.org/2009/agents/38322
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36525#Notes-on-Recent-Researches-in-Electricity-and-Magnetismon-Electricity-and-Magnetism
 gutenberg_bookshelf:
 - Physics
 - Mathematics
