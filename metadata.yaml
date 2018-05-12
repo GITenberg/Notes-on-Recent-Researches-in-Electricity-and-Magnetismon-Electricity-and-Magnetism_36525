@@ -1,0 +1,35 @@
+_repo: Notes-on-Recent-Researches-in-Electricity-and-Magnetismon-Electricity-and-Magnetism_36525
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomson, J. J. (Joseph John)
+    aliases:
+    - Thompson, J. J. (Joseph John)
+    - Thomson, Joseph John, Sir
+    birthdate: 1856
+    deathdate: 1940
+    gutenberg_agent_id: '38322'
+    url: http://www.gutenberg.org/2009/agents/38322
+description: ''
+gutenberg_bookshelf:
+- Physics
+- Mathematics
+gutenberg_issued: '2011-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Electric discharges'
+- !lcsh 'Electric waves'
+- !lcsh 'Electric currents, Alternating'
+title: "Notes on Recent Researches in Electricity and Magnetism\r\nIntended as a Sequel\
+  \ to Professor Clerk-Maxwell's Treatise on Electricity and Magnetism"
+url: http://www.gutenberg.org/ebooks/36525
